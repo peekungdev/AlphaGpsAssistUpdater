@@ -1,0 +1,8 @@
+# build output (release files are attached to GitHub Releases instead)
+/build/
+/dist/
+*.obj
+*.res
+*.pdb
+*.log
+*.zip
